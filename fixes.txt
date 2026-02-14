@@ -1,3 +1,9 @@
 I am a fix file which wil be used to fix the bug .
 fixed another bug.
+<<<<<<< HEAD
 add another marketing message section.
+=======
+one more bug detected and fixed. 
+fourth bug fixed.
+fifth bug fixed.
+>>>>>>> bug-fix
